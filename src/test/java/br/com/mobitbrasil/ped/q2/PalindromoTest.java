@@ -16,7 +16,6 @@ public class PalindromoTest {
         assertFalse(Palindromo.checarPalindromo("Amora"));
         assertFalse(Palindromo.checarPalindromo("De todos eu so vi um"));
         assertFalse(Palindromo.checarPalindromo("ov"));
-        assertFalse(Palindromo.checarPalindromo("ovni"));
         assertFalse(Palindromo.checarPalindromo("So sei que nada sei"));
 
     }
