@@ -14,7 +14,7 @@ public class Ordenar {
      * @return
      */
     public static List<Pessoa> ordenar(List<Pessoa> pessoas){
-        List<Pessoa> ordenated = new ArrayList<>();
+        List<Pessoa> ordenated = new ArrayList<Pessoa>();
 
         ordenated.addAll(pessoas); // Nao modifica a lista de entrada
 
